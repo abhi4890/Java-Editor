@@ -1,6 +1,6 @@
 # Java-Editor
 
- You just need JDK installed on your system and you are ready to dive into the editor i built.
+ You just need JDK installed on your system and you are ready to dive into the editor I built.
  Suggestions for improvement are welcome.
  
  #Working of the editor
